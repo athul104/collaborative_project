@@ -15,6 +15,8 @@ AStudent is creating a new branch and writing
 the very nice text here. 
 *PLACE HOLDER: ASTUDENT'S VERY NICE TEXT*
 
+These are some of the edits that Astudent are making to the very_interesting_text.txt. Yesterday I went for a Malayalam movie, Empuraan in Ljubljana. It was a really interesting experience. I was really amazed to see so many people from Kerala gathered in a foreign country. The movie was really good. In its making, the technicians really did a brilliant job in making the visuals as par as Hollywood movies.
+
 Before merging the two branches, AStudent
 writes a very nice conclusion for the document
 and commits it.
